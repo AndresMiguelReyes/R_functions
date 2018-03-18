@@ -1,5 +1,6 @@
 # Create matrix with different state labels for rows and columns
 # The goal is to count state transitions among states.
+# New Comment
 
 counttrans1 = function(ts,type='continuous'){
   N = max(ts)
