@@ -1,2 +1,2 @@
 # R_functions
-Functions written useful for projects
+Small collection of functions for using clincal trial data in markov models in R.
